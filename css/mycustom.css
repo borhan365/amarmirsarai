@@ -1,0 +1,125 @@
+
+
+.social_icons{
+  float: right;
+  display: flex;
+  padding: 10px;
+  color: white;
+}
+.hero_cover_section img{
+  border-radius: 5px;
+}
+.hero_cover_section h2{
+  margin-top: 10px;
+  font-family: amarmirsarai;
+  color: red;
+  font-weight: bold;
+  font-size: 35px;
+}
+.hero_cover_section h2:hover{
+  color: rgb(201, 39, 39);
+}
+.hero_cover_section p{
+  font-size: 20px;
+  border-bottom: 2px solid lightgray;
+  padding-bottom: 18px;
+}
+/* cutom Widget */
+.custom_widget{
+  
+}
+.main_scrolling_div{
+  margin-top: 10px;
+}
+.news_tricker{
+  background: black;
+  height: 31px;
+  width: 104px;
+  float: left;
+  text-align: center;
+  line-height: 30px;
+  font-size: 20px;
+  border-radius: 3px;
+  font-weight: bold;
+}
+.news_tricker p{
+    color: white;
+    font-size: 20px;
+}
+.scrolling_news{
+  width: 100%;
+  float: left;
+  background: red;
+  color: white;
+  border-radius: 3px;
+  padding: 5px;
+  height: 31px;
+  text-align: center;
+  font-size: 19px;
+  line-height: 22px;
+}
+.viral_news{
+background: white;
+border-radius: 5px;
+padding: 2px 10px 0px 15px; 
+box-shadow: 0px 0px 2px 0px rgba(0,0,0,0.18);
+}
+.custom_col_style_tabs{
+  
+}
+.latest_news{
+  height: 82px;
+  width: 100%;
+  background: #ffffff;
+  border-radius: 3px;
+  box-sizing: border-box;
+  box-shadow: 11px 10px 12px -17px black;
+  margin-top: 10px;
+  border-radius: 5px;
+}
+.latest_news:hover{
+  background: #f7ebeb;
+  box-shadow: 9px 9px 10px -13px;
+  border-radius: 5px;
+  transition: 1s;
+}
+.mini_block_feature_img{
+  /* border-radius: 3px; */
+  border-top-left-radius: 5px;
+  border-bottom-left-radius: 5px;
+  height: 82px;
+  width: 111px;
+  bottom: unset;
+  float: left;
+  margin-right: 10px;
+}
+.mini_block_title{
+  padding: 2px;
+  font-size: 20px;
+  font-weight: bold;
+  margin-top: 5px;
+  color: chocolate;
+}
+.catagories_title{
+  font-size: 20px;
+  text-align: center;
+  border-radius: 3px;
+  line-height: 37px;
+  font-weight: bold;
+}
+.theme-tab-navs a{
+border-radius: 5px;
+font-size: 20px;
+line-height: 16px;
+font-weight: bold;
+}
+.post-content h4{
+  font-size: 25px;
+  font-weight: 600;
+}
+.company_details p{
+  font-size: 20px;
+}
+.footer_section_one{
+  margin-top: 20px;
+}
